@@ -128,6 +128,13 @@ int main() {
     WSACleanup();
     return 0;
 }
-    
+
+## OUTPUT
+
+<img width="1048" height="561" alt="image" src="https://github.com/user-attachments/assets/65ad726e-ad33-4fed-a669-3fbd8f0e0b12" />
+<img width="1037" height="572" alt="image" src="https://github.com/user-attachments/assets/1e1038cc-3df8-4dc7-b5c9-b8ea81bb2efc" />
+
+
+ 
 ## 🎯 RESULT
 Thus, a socket program was successfully written to transfer data between client and server, and its performance was studied.
